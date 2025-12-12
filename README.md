@@ -55,8 +55,7 @@ This project was developed during the 4th semester to explore real-world applica
     Rahul,10:27:15,2025-01-11<br>
 
 ##  📷 Documents  <br>
-[Face Detection](<img width="1229" height="786" alt="image" src="https://github.com/user-attachments/assets/f0553f4e-fce5-4c80-8b3a-73c3d6025a03" />
-)<br>
+[Face Detection](https://github.com/Prabhakar620126/face-Attendance-system/blob/main/caputuring_image.png)<br>
 [sample Video ](https://github.com/Prabhakar620126/face-Attendance-system/blob/main/sample%20video%20.mp4)<br>
 [Project report ](https://github.com/Prabhakar620126/face-Attendance-system/blob/main/Mini%20Project%20Report.pdf)<br>
 ## 🚀 Future Improvements<br>
